@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["NEVADA TELECOMMS","daze was here"];
+const statusMessages = ["Watching 150+ Members 👀"];
 
 
 let currentIndex = 0;
